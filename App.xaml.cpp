@@ -1,6 +1,6 @@
 ﻿//
 // App.xaml.cpp
-// App クラスの実装。
+// App クラスの実装。DK1
 //
 
 #include "pch.h"
